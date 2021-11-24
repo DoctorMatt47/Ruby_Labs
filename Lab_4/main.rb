@@ -3,7 +3,6 @@
 require_relative 'ex_1'
 require_relative 'ex_2'
 require_relative 'ex_3'
-# require_relative 'ex_4'
 
 def rand_array(size)
   array = []
